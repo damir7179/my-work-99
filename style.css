@@ -1,0 +1,17 @@
+
+h1{
+    color: green;
+}
+.box{
+    display: grid;
+    grid: 20px;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto ;
+    background-color: gray;
+}
+.item1{
+    background-color: aliceblue;
+    margin: 30px;
+    height: 100px;
+    text-align:  center;
+}
